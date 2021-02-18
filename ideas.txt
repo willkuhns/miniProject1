@@ -1,0 +1,4 @@
+In this subunit, you have looked at some machine learning applications in the real world. Take inspiration from what you see and think about what kind of applications you'd like to work on. Think of this as an opportunity to start collecting ideas for your capstone.
+
+1. Surfer counter; based on images or videos identify surfers in the ocean and produce a count to see how crowded a location is
+    if this works, try to track surfers in the ocean and rate the quality of the waves ridden based on speed(position change) or some NN
